@@ -1,5 +1,7 @@
 # Hello World, I'm Isa'y, be very welcome. 🐙
 
+👩‍💻 Me chamo Isabely e sou estudante de Técnico em Desenvolvimento de Sistemas no SENAI.  
+
 ## 💻 Tecnologias que estudo e utilizo:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
