@@ -10,12 +10,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📫 Como me encontrar
 
-Você pode me encontrar por aqui:
-
-- Email: [isabely.a@aluno.senai.br]
-- GitHub: [https://github.com/seuusuario]
-- LinkedIn: [https://www.linkedin.com/in/seuusuario] (se tiver)
 
 
