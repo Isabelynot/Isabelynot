@@ -15,7 +15,6 @@
 Vamos manter contato! Você pode me encontrar aqui:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/isabely.lss)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/z8lz26ebrqqadgi5syqecy3b4?si=8cf9e2ba51aa480e)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isabelynot)
 
 
